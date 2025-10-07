@@ -1,7 +1,11 @@
 Controls:
+
 -> A or left arrow to go left
+
 -> D or right arrow to go right
+
 -> Space bar to jump
+
 -> R to restart game early
 
 [Game Description:]
