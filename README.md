@@ -1,3 +1,8 @@
+NOTE: In the actual unity console the game works perfectly fine (at least on my end) but for some reason the website version of it is a completely different movement speed and I have no idea why...I still talk about my process and everything
+
+Link: https://play.unity.com/en/games/4f308894-40dd-4739-b56c-d249a6a43d30/pumpkin-coin-collect
+
+
 Controls:
 
 -> A or left arrow to go left
