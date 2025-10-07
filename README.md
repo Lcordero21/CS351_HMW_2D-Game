@@ -9,12 +9,15 @@ Controls:
 -> R to restart game early
 
 [Game Description:]
-	  In this one-level snippet of the game, we continue the “Boo the Ghost” saga. Rather than being in space though dodging ginormous pumpkins, we are now in a parkour game 
-  where the player has to collect all of the pumpkin coins.
-  	In order to win, the player must collect all the coins within the time limit. If they succeed, the game will display a “You Win” message and restart the level. If the 
-  player is unsuccessful in collecting all the coins within the one minute time limit, a “You Lose” message will appear and the level will restart.
-	  I think the challenge of collecting all the coins before the timer runs out is the most engaging part of the game, since it's a challenge with the stakes being:
-    "Lose all your progress".
+
+In this one-level snippet of the game, we continue the “Boo the Ghost” saga. Rather than being in space though dodging ginormous pumpkins, we are now in a parkour game 
+where the player has to collect all of the pumpkin coins.
+
+In order to win, the player must collect all the coins within the time limit. If they succeed, the game will display a “You Win” message and restart the level. If the 
+player is unsuccessful in collecting all the coins within the one minute time limit, a “You Lose” message will appear and the level will restart.
+
+I think the challenge of collecting all the coins before the timer runs out is the most engaging part of the game, since it's a challenge with the stakes being:
+"Lose all your progress".
 
 [Technical Implementation:]
 
@@ -35,6 +38,7 @@ If I were to work on this game further I would love to implement sound effects! 
 Furthermore, I would aim to add more puzzles that make the game get progressively more difficult as you get further and further into the game (or even add enemies and a health bar). Perhaps I'll do this over winter break...
 
 [Development Reflection]
+
 Overall, the game wasn't too bad to make, a lot of the issues I had were related to mistakes I made when initializing everything, such as the score not updating properly
 or the ghost glitching through the walls (normally that be realistic, but this ghost isn't suppose to be that powerful). I will say, there are still a bit of issues with the movement speed and jump force being a bit much, but we won't say that's a bug...but rather a feature to make the game more difficult. 
 
@@ -43,6 +47,7 @@ Through this project though, I learned a lot about unity and how to make a game 
 If I did this again, I would definitely start really early (I procrasinated a bit too much) and come up with a narrative to implement!
 
 [Resources Used]
+
 - Quad Center
 - https://youtu.be/FO7auF7zXpU?feature=shared
 	- For Jumping Mechanic
