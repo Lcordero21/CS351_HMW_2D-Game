@@ -2,7 +2,6 @@ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class PlayerControls : MonoBehaviour
 {
@@ -24,7 +23,6 @@ public class PlayerControls : MonoBehaviour
     {
         if (!canMove) return;
         //Movement controls
-
         // Jump (Space)
         if ((Keyboard.current.spaceKey.isPressed) && isgrounded())
         {

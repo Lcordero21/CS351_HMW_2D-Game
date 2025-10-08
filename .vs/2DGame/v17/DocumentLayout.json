@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kitte\\2DGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|c:\\users\\kitte\\2dgame\\assets\\scripts\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\kitte\\2DGame\\assets\\scripts\\playercontrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|c:\\users\\kitte\\2dgame\\assets\\scripts\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\kitte\\2DGame\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -34,31 +34,30 @@
               "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:45:55.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T19:45:55.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CoinTrigger.cs",
               "DocumentMoniker": "C:\\Users\\kitte\\2DGame\\Assets\\Scripts\\CoinTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CoinTrigger.cs",
               "ToolTip": "C:\\Users\\kitte\\2DGame\\Assets\\Scripts\\CoinTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\CoinTrigger.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T19:08:15.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerControlls.cs",
               "DocumentMoniker": "C:\\Users\\kitte\\2DGame\\Assets\\Scripts\\PlayerControlls.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControlls.cs",
               "ToolTip": "C:\\Users\\kitte\\2DGame\\Assets\\Scripts\\PlayerControlls.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControlls.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T19:22:34.501Z",
               "EditorCaption": ""
